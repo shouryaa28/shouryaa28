@@ -4,6 +4,7 @@ About me
 - :blush: Exploring new technologies and developing software solutions to make a considerable difference to the world and society.
 - 🎓Studying Computer Science at Lakshmi Narain College Of Technology.
 
+
 Technology 
 
 💻   C++
@@ -16,7 +17,8 @@ Technology
 
 🔧   Visual Studio Code
 
-Connect With Me!
+
+Connect With Me! 📡
 
 - LinkedIn - https://www.linkedin.com/in/shourya-shrivastava-ab7a591a5
 - Email - shrivastavshourya28@gmail.com
